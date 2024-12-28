@@ -16,7 +16,7 @@ const page = () => {
             <span className="font-bold">container orchestration</span>,{" "}
             <span className="font-bold">kubernetes</span>,{" "}
             <span className="font-bold">prometheous</span> and{" "}
-            <span className="font-bold">grafana ..</span>
+            <span className="font-bold">grafana ...</span>
             <span className="not-italic"> 😊</span>{" "}
           </span>
         </p>
